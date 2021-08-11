@@ -1,2 +1,3 @@
 # TextSummarization
-NLP projects in Korea Univ (21-1)
+
+Final Project in "Statistical Modeling with Deep Learning", Korea Univ (21-1)
